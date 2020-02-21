@@ -1,7 +1,7 @@
 # Coffee-Bytes-React-Starter
 First CB workshop using react.js
 
-## Steps for settingUp
+## Steps for setting up React on your machine
 
 0. Download node js (whichever version is fine)
 
